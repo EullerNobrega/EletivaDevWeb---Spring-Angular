@@ -1,0 +1,20 @@
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Professor</th>
+      <th scope="col">Disciplina</th>
+      <th scope="col">Código</th>
+    </tr>
+  </thead>
+
+
+  <tbody >
+    <tr *ngFor="let disciplina of professor.disciplinas">
+      <td>{{ professor.nome }}</td>
+      <td>{{ disciplina.descricao }}</td>
+      <td>{{ disciplina.codigo }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<button routerLink="/listProfessor" class="btn btn-light">Voltar</button>

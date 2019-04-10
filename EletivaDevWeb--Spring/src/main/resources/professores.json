@@ -1,0 +1,66 @@
+[
+    {
+        "nome": "Almir Pires Ferreira Neto",
+        "email": "almir.pires@gmail.com",
+        "matricula": "2005528075",
+        "disciplinas": [
+            "REDES DE COMPUTADORES II",
+            "REDES DE COMPUTADORES I"
+        ]
+    },
+    {
+        "nome": "Fernando José Araújo Wanderley",
+        "email": "fernando@unicap.br",
+        "matricula": "2012506469",
+        "disciplinas": [
+            "PROGRAMACAO ORIENTADA A OBJETO",
+            "BANCO DE DADOS II"
+        ]
+    },
+    {
+        "nome": "Antônio Luiz de Oliveira Cavalcanti Júnior",
+        "email": "tj@unicap.br",
+        "matricula": "2001704132",
+        "disciplinas": [
+            "SISTEMAS OPERACIONAIS I",
+            "SISTEMAS OPERACIONAIS II"
+        ]
+    },
+    {
+        "nome": "Márcio Augusto Silva Bueno",
+        "email": "masb@unicap.br",
+        "matricula": "2013853860",
+        "disciplinas": [
+            "ESTRUTURA DE DADOS I",
+            "ESTRUTURA DE DADOS II"
+        ]
+    },
+    {
+        "nome": "Sérgio Murilo Maciel Fernandes",
+        "email": "sergio@c3.unicap.br",
+        "matricula": "2005072512",
+        "disciplinas": [
+            "ARQ E ORG DE COMPUTADORES II",
+            "ARQ E ORG DE COMPUTADORES II"
+        ]
+    },
+    {
+        "nome": "Ana Eliza Lopes Moura",
+        "email": "aelm@c3.unicap.br",
+        "matricula": "2005520184",
+        "disciplinas": [
+            "INTRODUCAO A PROGRAMACAO I",
+            "INTRODUCAO A PROGRAMACAO II",
+            "PRATICA DE PROGRAMACAO"
+        ]
+    },
+    {
+        "nome": "Liliane Fonseca",
+        "email": "lilianefonseca@gmail.com",
+        "matricula": "2003300338",
+        "disciplinas": [
+            "BANCO DE DADOS I",
+            "PARADIG DE LING DE PROGRAMACAO"
+        ]
+    }
+]

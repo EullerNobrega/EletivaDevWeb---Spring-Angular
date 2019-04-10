@@ -1,0 +1,38 @@
+[
+  
+    {
+      "codigo" : "INF1407",
+      "descricao" : "ARQ E ORG DE COMPUTADORES II",
+      "qtdCreditos" : "60"
+    },
+    {
+      "codigo" : "INF1121",
+      "descricao" : "INTRODUCAO A PROGRAMACAO I",
+      "qtdCreditos" : "60"
+    },
+    {
+      "codigo" : "INF1406",
+      "descricao" : "ARQ E ORG DE COMPUTADORES I",
+      "qtdCreditos" : "60"
+    },
+    {
+      "codigo" : "INF1122",
+      "descricao" : "INTRODUCAO A PROGRAMACAO II",
+      "qtdCreditos" : "60"
+    },
+    {
+      "codigo" : "INF1124",
+      "descricao" : "PRATICA DE PROGRAMACAO",
+      "qtdCreditos" : "60"
+    },
+    {
+      "codigo" : "INF1123",
+      "descricao" : "PROGRAMACAO ORIENTADA A OBJETO",
+      "qtdCreditos" : "60"
+    },
+    {
+      "codigo" : "INF1125",
+      "descricao" : "PARADIG DE LING DE PROGRAMACAO",
+      "qtdCreditos" : "60"
+    } 
+]

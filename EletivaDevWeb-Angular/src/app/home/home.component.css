@@ -1,0 +1,39 @@
+.container{
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  font-size: 120%;
+}
+
+.header {
+  text-align: center;
+  width: 100%;
+}
+
+.header > img {
+  width: 100%;
+}
+
+.menu {
+  margin-top: 3%;
+  text-align: center;
+  width: 100%;
+}
+
+.btn-primary {
+  margin-top: 3%;
+  font-size: 120%;
+  font-family: "Times New Roman", Times, serif;
+  width: 50%;
+}
+
+.form-group {
+  text-align: center;
+  width: 100%;
+}
+
+h1 {
+  width: 100%;
+}

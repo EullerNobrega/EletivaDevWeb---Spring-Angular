@@ -1,0 +1,20 @@
+<div class="container">
+  <table class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">Código</th>
+        <th scope="col">Descrição</th>
+        <th scope="col">Créditos</th>
+      </tr>
+    </thead>
+
+    <tbody *ngFor="let disciplina of disciplinas">
+      <tr>
+        <td>{{ disciplina.codigo }}</td>
+        <td>{{ disciplina.descricao }}</td>
+        <td>{{ disciplina.qtdCreditos }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button routerLink="/convidado" class="btn btn-light">Voltar</button>
+</div>
